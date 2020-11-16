@@ -1,0 +1,15 @@
+corn healthy
+corn general
+corn serious
+grape healthy
+grape general
+grape serious
+strawberry healthy
+strawberry general
+strawberry serious
+tomato healthy
+tomato general
+tomato serious
+apple healthy
+apple general
+apple serious

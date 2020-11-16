@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000000.jpg 44,6,206,414,2
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000011.jpg 28,55,230,314,1
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000019.jpg 29,42,226,572,2
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000021.jpg 23,33,219,274,3
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000029.jpg 117,58,233,170,4
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000034.jpg 31,131,232,467,0
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000037.jpg 26,28,214,181,4
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000040.jpg 18,32,268,254,3
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000049.jpg 27,27,256,475,9
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000058.jpg 15,10,254,485,10
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000059.jpg 17,18,246,463,12
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000066.jpg 29,28,233,465,9
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000073.jpg 9,52,238,582,9
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000095.jpg 15,16,236,306,6
+C:\Users\1\Desktop\nongzuowu/VOCdevkit/VOC2007/JPEGImages/000105.jpg 13,25,236,239,8
